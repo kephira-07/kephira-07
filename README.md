@@ -8,9 +8,9 @@
 <p align="center">Développeuse Full-Stack · IoT & Systèmes Embarqués · UI/UX Design</p>
 
 <p align="center">
-  <a href="[LIEN_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[TON_EMAIL]"><img src="https://img.shields.io/badge/Email-6b4327?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[LIEN_PORTFOLIO]"><img src="https://img.shields.io/badge/Portfolio-2c1c10?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/ahlonkoba-arielle-kephira-kouassi-b06558356"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:arielleahlonkoba@gmail.com"><img src="https://img.shields.io/badge/Email-6b4327?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://arielletech.website"><img src="https://img.shields.io/badge/Portfolio-2c1c10?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
